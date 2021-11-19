@@ -14,6 +14,6 @@ Use sql server 2019
 
 Bootstrap4 ,Ajax,Entity Framework Core are used here
 
-Only Asynchronous reposiotry service is used in everywhere
-Project Contributor:Self
-Project Status :Allmost done (Ongoing)
+# Only Asynchronous reposiotry service is used in everywhere
+# Project Contributor:Self
+# Project Status :Allmost done (Ongoing)
